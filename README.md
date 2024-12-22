@@ -8,24 +8,21 @@ As a lifelong learner and problem solver, I thrive on exploring innovative solut
 
 ---
 
-## 💻 Tech Stack
-
-**Programming Languages**  
-- Python | C | C++ | Java | Arduino | Assembly (Nios II)  
-
-**Frameworks & Libraries**  
-- PyTorch | TensorFlow | Keras | Pandas | NumPy | SciPy | Matplotlib  
-
-**Tools & Platforms**  
-- Git | Docker | Linux Command Line | LabVIEW | SOLIDWORKS | LTspice  
-
-**Technologies**  
-- Machine Learning & Neural Networks  
-- Optical Systems & Quantum Computing  
-- Embedded Systems  
-
-**Developer Tools**  
-- GitHub | GitLab | Visual Studio Code | Android Studio  
+## 🛠️ Tech Stack
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</p>
 
 ---
 
