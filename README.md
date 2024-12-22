@@ -1,10 +1,10 @@
 # 👋 Hello there! I'm Ali Bekheet 
 
-🚀 **Engineering Physics & Computing Student | AI Systems & Optics Enthusiast | Problem Solver**
+🚀 **Early Career Optical Engineer | Engineering Physics & Computing Student | AI Systems Enthusiast**
 
-Welcome to my GitHub profile! I'm **Ali Bekheet**, a final-year **Engineering Physics and Computing** student at **Queen's University**. My academic foundation bridges the theoretical elegance of physics with the practical demands of computing, equipping me to tackle challenges across diverse fields, from **AI systems** to **optical engineering**.  
+Hi! I'm **Ali Bekheet**, a final-year **Engineering Physics and Computing** student at **Queen's University** and an Early Career Optical Engineer. I combine my background in physics and computing to work on interesting problems in AI and optical engineering.  
 
-As a lifelong learner and problem solver, I thrive on exploring innovative solutions—whether that's building intelligent systems, designing optical experiments, or streamlining processes with cutting-edge technologies. I’m actively seeking opportunities to apply my expertise and grow as an engineer in **machine learning**, **AI systems**, or **embedded systems development**.
+I love learning and solving complex problems—whether that's working with AI systems, building optical setups, or creating new tech solutions. I'm looking for opportunities in **optical engineering**, **machine learning**, and **AI systems**, especially where I can work on practical applications of optical technologies.
 
 ---
 
