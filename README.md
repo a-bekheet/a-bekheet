@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ali Bekheet 
+# 👋 Hello there! I'm Ali Bekheet 
 
 🚀 **Engineering Physics & Computing Student | AI Systems & Optics Enthusiast | Problem Solver**
 
