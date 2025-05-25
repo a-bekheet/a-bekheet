@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Ali Bekheet 
 
-🚀 **Early Career Optical Engineer | Engineering Physics & Computing Graduate | AI Systems Enthusiast**
+🚀 **Early Career Engineer | Engineering Physics & Computing Graduate | AI Systems Enthusiast**
 
 ## 🌟 About Me
 
